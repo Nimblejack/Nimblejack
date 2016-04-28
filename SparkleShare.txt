@@ -1,9 +1,10 @@
-Congratulations, you've successfully created a SparkleShare repository!
+Congratulations, you've suasdfasdfccessfully created a SparkleShare repository!
 
-Any files you add or change in this folder will be automatically synced to 
-ssh://git@github.com/Nimblejack/Nimblejack and everyone connected to it.
-
-SparkleShare is an Open Source software program that helps people collaborate and 
-share files. If you like what we do, consider buying us a beer: http://www.sparkleshare.org/
-
-Have fun! :)
+Any fasdfiles you add or change in this folder will be automaticalasdfasdfly synced to 
+ssh://git@github.com/Nimblejack/NimblsdFejack and everyone connected to it.
+sadfasdf
+SpasdfasdfasdfarkleShare is an Open Source software program that helps people collaborate and 
+share files. If you like what asdfasdfwe do, consideasdfr buying us a beer: http://www.sparkleshare.org/
+ASDASDFF
+Have ASDFfunASDF! :ASDF)ASDF
+ASDF
